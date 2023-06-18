@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\bunya\source\repos\MarioGame\MarioGame\Game.cpp(331): warning C4715: 'Game::checkCollusion': not all control paths return a value
+  All 168 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MarioGame.vcxproj -> C:\Users\bunya\source\repos\MarioGame\Release\MarioGame.exe
